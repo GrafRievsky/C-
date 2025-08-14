@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> //Простой код на C для расчета площадей 4 фигур
 #include <math.h>
 
 struct Quan{
